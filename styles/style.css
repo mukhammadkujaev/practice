@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+.header{
+  background: violet;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh;
+}
+
+h1{
+    font-size: 50px;
+    text-transform: uppercase;
+color: white;
+}
